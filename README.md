@@ -19,8 +19,8 @@ Using segmentation and clustering, we hope we can determine:
 ## Data
 The data acquired from wikipedia pages and restructure to csv file for easier manipulation and reading. Both files uploaded to my github for references. Link to the files are:
 
-- [Link](https://github.com/zaephaer/CapstoneProject/blob/master/JB_disrict.csv)
-- [Link](https://github.com/zaephaer/CapstoneProject/blob/master/KL_disrict.csv)
+- [JB District Data](https://github.com/zaephaer/CapstoneProject/blob/master/JB_disrict.csv)
+- [KL District Data](https://github.com/zaephaer/CapstoneProject/blob/master/KL_disrict.csv)
 
 Another aspect to consider for this project is the Foursquare data. I believe that the data as good as provided, meaning although we are using Foursquare data for segmentation and clustering, the amount and accuracy of data captured can't 100% determine correct classification in real world.
 
