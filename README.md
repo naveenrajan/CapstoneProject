@@ -16,7 +16,21 @@ Using segmentation and clustering, we hope we can determine:
 - the similarity or dissimilarirty of both cities
 - classification of area located inside the city whether it is residential, tourism places, or others
 
-![https://ibb.co/dCFvmz](https://ibb.co/dCFvmz)
+![Test Image 1]("https://ibb.co/dCFvmz"><img src="https://preview.ibb.co/jbKMRz/kl_map.png" alt="kl map" border="0")
+
+![Test Image 2]("3DTest.png")
+
+![Test Image 3](/3DTest.png)
+
+![Test Image 4](https://github.com/tograh/testrepository/3DTest.png)
+
+![Test Image 5](https://.../3DTest.png)
+
+![Test Image 6](master/3DTest.png)
+
+![Test Image 7](https://github.com/tograh/testrepository/master/3DTest.png)
+
+![Test Image 8](https://raw.githubusercontent.com/tograh/testrepository/master/3DTest.png)
 
 ## Data
 The data acquired from wikipedia pages and restructure to csv file for easier manipulation and reading. Both files uploaded to my github for references. Link to the files are:
