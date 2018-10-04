@@ -14,6 +14,15 @@ You can use the [editor on GitHub](https://github.com/zaephaer/CapstoneProject/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+## Objective
+In this project, we will study in details the area classification using Foursquare data and machine learning segmentation and clustering. The aim of this project is to segment areas of Kuala Lumpur and Johor Bahru based on the most common places captured from Foursquare.
+
+Using segmentation and clustering, we hope we can determine:
+- the similarity or dissimilarirty of both cities
+- classification of area located inside the city whether it is residential, tourism places, or others
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
