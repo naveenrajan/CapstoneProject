@@ -16,6 +16,17 @@ Using segmentation and clustering, we hope we can determine:
 - the similarity or dissimilarirty of both cities
 - classification of area located inside the city whether it is residential, tourism places, or others
 
+## Data
+The data acquired from wikipedia pages and restructure to csv file for easier manipulation and reading. Both files uploaded to my github for references. Link to the files are:
+
+- https://github.com/zaephaer/CapstoneProject/blob/master/JB_disrict.csv
+- https://github.com/zaephaer/CapstoneProject/blob/master/KL_disrict.csv
+
+Another aspect to consider for this project is the Foursquare data. I believe that the data as good as provided, meaning although we are using Foursquare data for segmentation and clustering, the amount and accuracy of data captured can't 100% determine correct classification in real world.
+
+To start, let's get and look at the data. I've already downloaded it, so let's read it (from local drive) and load it to dataframe:
+
+![Image](https://photos.google.com/photo/AF1QipP2LcoJII5cJZMQxu2fwEzrg68sLO51tmXzg6Tm)
 
 ### Markdown
 
