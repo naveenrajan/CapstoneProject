@@ -16,6 +16,8 @@ Using segmentation and clustering, we hope we can determine:
 - the similarity or dissimilarirty of both cities
 - classification of area located inside the city whether it is residential, tourism places, or others
 
+![https://ibb.co/dCFvmz](https://ibb.co/dCFvmz)
+
 ## Data
 The data acquired from wikipedia pages and restructure to csv file for easier manipulation and reading. Both files uploaded to my github for references. Link to the files are:
 
@@ -27,6 +29,7 @@ Another aspect to consider for this project is the Foursquare data. I believe th
 To start, let's get and look at the data. I've already downloaded it, so let's read it (from local drive) and load it to dataframe:
 
 ![Image](https://ibb.co/dCFvmz)
+
 
 ### Markdown
 
