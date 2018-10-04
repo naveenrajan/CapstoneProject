@@ -1,5 +1,3 @@
-## Welcome Battle of Neighborhood: A Capstone project for IBM Data Science Professional Certificate by Coursera
-
 ## Introduction
 Kuala Lumpur and Johor Bahru are two major cities in Malaysia. Both cities become a center of attention for residential, job employment, tourism, education, shopping and sports activity. Both cities are well known in Malaysia, and become the top choice for local and foreign communities.
 
