@@ -31,29 +31,47 @@ Using geocoder, we able to get Latitude and longitude for each area.
 ![Test Image 1](https://image.ibb.co/dsxNzK/code02.png)
 
 
-### Markdown
+## Methodology
+In this project, I will use the basic methodology as taught in Week 3 lab.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Above, we have done convert addresses into their equivalent latitude and longitude values.
+Then we will use the Foursquare API to explore neighborhoods in both cities, Kuala Lumpur and Johor Bahru
+After that, explore function to get the most common venue categories in each neighborhood,
+and then use this feature to group the neighborhoods into clusters
+K-means clustering algorithm will be use to complete this task. And also, the Folium library to visualize the neighborhoods in Kuala Lumpur and Johor Bahru and their emerging clusters.
 
-```markdown
-Syntax highlighted code block
+Based on dataframe analysis above, we found out that Bukit Bintang area in Kuala Lumpur and Johor Bahru area in Johor Bahru are both have the highest number of area within it those district.
 
-# Header 1
-## Header 2
-### Header 3
+![Test Image 1](https://image.ibb.co/kF2fKK/code03.png)
+![Test Image 1](https://image.ibb.co/cPGqKK/code04.png)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Analyze Kuala Lumpur
+Analyzing Kuala Lumpur data to get most common venue for each area.
+![Test Image 1](https://image.ibb.co/fdKMRz/code05.png)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## K-mean Cluster Kuala Lumpur
+Using K-mean to clustering data area with most common venue
+![Test Image 1](https://image.ibb.co/kXUMRz/code06.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Image 1](https://image.ibb.co/foN86z/code07.png)
+
+## Analyze Johor Bahru
+Analyzing Johor Bahru data to get most common venue for each area.
+![Test Image 1](https://image.ibb.co/gS84eK/code08.png)
+
+
+## K-mean Cluster Johor Bahru
+Using K-mean to clustering data area with most common venue
+![Test Image 1](https://image.ibb.co/n7QjeK/code09.png)
+
+![Test Image 1](https://image.ibb.co/jgcKDe/code10.png)
+
+
+
+
+
 
 ### Jekyll Themes
 
