@@ -16,7 +16,7 @@ Using segmentation and clustering, we hope we can determine:
 - the similarity or dissimilarirty of both cities
 - classification of area located inside the city whether it is residential, tourism places, or others
 
-![Test Image 1](img src="https://preview.ibb.co/jbKMRz/kl_map.png" alt="kl map" border="0")
+![Test Image 1](https://image.ibb.co/eyYgRz/kl_map.png)
 
 ![Test Image 2]("3DTest.png")
 
