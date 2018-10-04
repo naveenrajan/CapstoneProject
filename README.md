@@ -26,8 +26,7 @@ Another aspect to consider for this project is the Foursquare data. I believe th
 
 To start, let's get and look at the data. I've already downloaded it, so let's read it (from local drive) and load it to dataframe:
 
-![Image](src)
-![Image](https://photos.app.goo.gl/yuyYzDKMWnNdXiTE8)
+![Image](https://ibb.co/dCFvmz)
 
 ### Markdown
 
