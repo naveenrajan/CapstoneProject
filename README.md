@@ -69,14 +69,47 @@ Using K-mean to clustering data area with most common venue
 ![Test Image 1](https://image.ibb.co/jgcKDe/code10.png)
 
 
+## Result
+
+Cluster 1 for Kuala Lumpur
+![Test Image 1](https://image.ibb.co/bQmRRz/code11.png)
+
+Cluster 2 for Kuala Lumpur
+![Test Image 1](https://image.ibb.co/jNPrte/code12.png)
+
+Cluster 3 for Kuala Lumpur
+![Test Image 1](https://image.ibb.co/eO1t6z/code13.png)
+
+Cluster 1 for Johor Bahru
+![Test Image 1](https://image.ibb.co/h6pPDe/code14.png)
+
+Cluster 2 for Johor Bahru
+![Test Image 1](https://image.ibb.co/k44rte/code15.png)
+
+Cluster 3 for Johor Bahru
+![Test Image 1](https://image.ibb.co/ncRhzK/code16.png)
 
 
+## Discussion
+Based on cluster for each cities above, we believe that classification for each cluster can be done better with calculation of venues categories (most common) in each cities. Refering to each clsuter, we can't deterimine clearly what represent in each cluster by using Foursquare - Most Common Venue data.
+
+However, for the sae of this project we assumed each cluster as follow:
+
+Cluster 1: Kuala Lumpur: Tourism
+Cluster 2: Kuala Lumpur: Residental
+Cluster 3: Kuala Lumpur: Mix
+Cluster 1: Johor Bahru: Residental
+Cluster 2: Johor Bahru: Tourism
+Cluster 3: Johor Bahru: Sport
+
+What is lacking at this point is a systematic, quantitative way to identify and distinguish different district and to describe the correlation most common venues as recorded in Foursquare. The reality is however more complex: similar cities might have or might not have similar common venues. A further step in this classification would be to find a method to extract these common venues and integrate the spatial correlations between different of areas or district.
+
+We believe that the classification we propose is an encouraging step towards a quantitative and systematic comparison of the different cities. Further studies are indeed needed in order to relate the data acquired, then observe it to more meaningful and objective results.
 
 
-### Jekyll Themes
+## Conclusion
+Using Foursquare API, we can captured data of common places all around the world. Using it, we refer back to our main objectives, which is to determine;
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zaephaer/CapstoneProject/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+the similarity or dissimilarirty of both cities
+classification of area located inside the city whether it is residential, tourism places, or others
+In conclusion, both cities Kuala Lumpur and Johor Bahru are the center of attraction among Malaysian. However, to declare both cities are similar or dissimilar base on common venues visited is quite difficult. Both cities is similar in some venues also dissimilar in certain venues. And for classitification based on common venues, again we must have more systematic or quantitative way to identify and declare this. Comparison can be made, but no such method or quantitative data to determine this. We hope in the future, a method to determine it can be establish and explore for references.
